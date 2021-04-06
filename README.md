@@ -2,7 +2,7 @@
 Part A: Please read and answer the riddle below:
 In a Bangladesh market, a small potato bag costs 5 taka, a medium potato bag costs 7 taka, and a large potato bag costs 9 taka. Yet, a single potato in that market costs 10 taka. How is that possible?
 
-Answer:
+Answer: *The price is for a bag **for** potatoes, rather than a bag **of** potatoes. Alternatively, it may be for bags of varying sizes containing **pieces of a potato**.*
 
 
 
